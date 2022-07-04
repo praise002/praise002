@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Praise Idowu
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, MySQL and Django
 - 💞️ I’m looking to collaborate on several projects
 - 📫 How to reach me on ifeoluwapraise02@gmail.com
 
