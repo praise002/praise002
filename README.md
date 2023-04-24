@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Praise Idowu</h1>
-<h3 align="center">A passionate fullstack developer from Nigeria</h3>
+<h3 align="center">A passionate backend developer from Nigeria</h3>
 <p align="center"> <img src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="praise002" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praise002&label=Profile%20views&color=0e75b6&style=flat" alt="praise002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praise002" alt="praise002" /></a> </p>
 
-- 🌱 I’m currently learning **Django and front-end frameworks**
+- 🌱 I’m currently learning **Django Rest Framework**
 
-- 💬 Ask me about **python, HTML and CSS**
+- 💬 Ask me about **APIs**
 
 - 📫 How to reach me **ifeoluwapraise02@gmail.com**
 
