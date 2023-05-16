@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praise Idowu</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praise002" alt="praise002" /></a> </p>
+
 <h3 align="center">Software Developer-REST APIs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praise002&label=Profile%20views&color=0e75b6&style=flat" alt="praise002" /> </p>
