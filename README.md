@@ -10,14 +10,10 @@ I am a CS student at The [Kibo School Of Technology](https://kibo.school/) -> 20
 - [How to build Asynchronous applications in Python: Exploring Multithreading](https://dev.to/praise002/how-to-build-asynchronous-applications-in-python-exploring-multithreading-3cof)
 - [Navigating challenges on my tech journey](https://medium.com/@ifeoluwapraise02/navigating-challenges-on-my-tech-journey-f0bda45140d5)
 
-## Programming Languages, Framework & Others
+## Programming Languages & Framework 
 - Python 
 - Javascript
 - Django
-- Docker | NGINX
-- SQLITE | PostgreSQL | MySQL
-- MVT | REST API
-- Git, Github, Linux
 
 ## Socials
 - [Twitter](https://twitter.com/PraiseID3?s=09)
