@@ -1,30 +1,16 @@
 # Hello, I'm Praise
 
-## About Me
 I am a Software Engineer, developer, and technical writer. 
 I love researching and working with Python and Javascript especially for Backend development.
+I am a CS student at The [Kibo School Of Technology](https://kibo.school/) -> 2023 - Present
 
-## Education
-- 2023 - Present, Bachelor of Computer Science at the [Kibo School Of Technology](https://kibo.school/)
-
-## Programming Languages
-Python | Javascript
-
-## Framework
-Django | Django REST FRAMEWORK
-
-## Others
-- Docker | NGINX 
+## Programming Languages, Framework & Others
+- Python 
+- Javascript
+- Django
+- Docker | NGINX
 - SQLITE | PostgreSQL | MySQL
 - MVT | REST API
-
-## Experience
-- Back-end development
-- Front-end development
-- MVT Architecture
-- API development and 3rd Party API integrations
-- API Documentation with swagger or postman
-- Docker and container orchestration tools
 - Git, Github, Linux
 
 ## Socials
