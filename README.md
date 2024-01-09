@@ -1,7 +1,8 @@
-# Python (Backend Engineer and Technical Writer)
+# Hello, I'm Praise
 
 ## About Me
-Hello and welcome to my profile! I am Praise Idowu, a Backend Engineer and, Technical Writer. My passion is centered around teaching and writing. I specialize in crafting tech solutions for businesses, and I also take pleasure in guiding and inspiring individuals on their tech learning journey.
+I am a Software Engineer, developer, and technical writer. 
+I love researching and working with Python and Javascript especially for Backend development.
 
 ## Education
 - 2023 - Present, Bachelor of Computer Science at the [Kibo School Of Technology](https://kibo.school/)
