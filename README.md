@@ -4,6 +4,12 @@ I am a Software Engineer, developer, and technical writer.
 I love researching and working with Python and Javascript especially for Backend development.
 I am a CS student at The [Kibo School Of Technology](https://kibo.school/) -> 2023 - Present
 
+## Latest Blog Posts
+- [Comparing CodiumAI PR-Agent to GitHub Copilot’s solution for pull request](https://medium.com/@ifeoluwapraise02/comparing-codiumai-pr-agent-to-github-copilots-solution-for-pull-request-67143e37e4e5)
+- [20 Exciting Python Project Ideas](https://dev.to/praise002/20-exciting-python-project-ideas-3la9)
+- [How to build Asynchronous applications in Python: Exploring Multithreading](https://dev.to/praise002/how-to-build-asynchronous-applications-in-python-exploring-multithreading-3cof)
+- [Navigating challenges on my tech journey](https://medium.com/@ifeoluwapraise02/navigating-challenges-on-my-tech-journey-f0bda45140d5)
+
 ## Programming Languages, Framework & Others
 - Python 
 - Javascript
