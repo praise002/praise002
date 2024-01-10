@@ -1,7 +1,7 @@
 # Hello, I'm Praise
 
-I am a Software Engineer, developer, and technical writer. <br>
-I love researching and working with Python and Javascript especially for Backend development. <br>
+I am a Software Engineer, developer, and technical writer.
+I love researching and working with Python and Javascript especially for Backend development.
 I am a CS student at The [Kibo School Of Technology](https://kibo.school/) -> 2023 - Present.
 
 ## Latest Blog Posts
