@@ -5,6 +5,7 @@ I love researching and working with Python and Javascript especially for Backend
 I am a CS student at The [Kibo School Of Technology](https://kibo.school/) -> 2023 - Present.
 
 ## Latest Blog Posts
+- [Creating Python Virtual Environment on Windows 11](https://dev.to/praise002/creating-python-virtual-environment-on-windows-11-1fkm)
 - [Comparing CodiumAI PR-Agent to GitHub Copilot’s solution for pull request](https://medium.com/@ifeoluwapraise02/comparing-codiumai-pr-agent-to-github-copilots-solution-for-pull-request-67143e37e4e5)
 - [20 Exciting Python Project Ideas](https://dev.to/praise002/20-exciting-python-project-ideas-3la9)
 - [How to build Asynchronous applications in Python: Exploring Multithreading](https://dev.to/praise002/how-to-build-asynchronous-applications-in-python-exploring-multithreading-3cof)
