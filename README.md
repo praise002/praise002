@@ -1,6 +1,6 @@
 # Hello, I'm Praise
 
-I am a Full-stack Engineer and AI/ML Engineer with a focus on Large Multimodal Models (LMMs). My expertise lies in crafting efficient, scalable backend solutions, particularly using Python and React. With a strong foundation in software engineering, I thrive on solving complex problems and optimizing system performance.
+I am a Backend Engineer and AI/ML Engineer with a focus on Large Multimodal Models (LMMs). My expertise lies in crafting efficient, scalable backend solutions, particularly using Python and React. With a strong foundation in software engineering, I thrive on solving complex problems and optimizing system performance.
 
 In addition to backend development, I am deeply involved in the AI/ML space, where I specialize in implementing and fine-tuning LLMs to drive innovative applications. My curiosity fuels my continuous learning, enabling me to stay at the forefront of emerging technologies.
 
