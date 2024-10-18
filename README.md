@@ -22,6 +22,7 @@ As a technical writer, I enjoy distilling complex concepts into clear, accessibl
 - Django
 - React
 - LangChain
+- FASTAPI
 
 ## Socials
 - [Twitter](https://twitter.com/PraiseID3?s=09)
