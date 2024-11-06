@@ -1,11 +1,8 @@
 # Hello, I'm Praise
 
-I am a Backend Engineer and AI/ML Engineer with a focus on Large Multimodal Models (LMMs). My expertise lies in crafting efficient, scalable backend solutions, particularly using Python and React. With a strong foundation in software engineering, I thrive on solving complex problems and optimizing system performance.
+I am a Backend and AI/ML Engineer with a focus on scalable solutions and Large Multimodal Models (LMMs). Proficient in Python and expanding into frontend with React, I enjoy tackling complex problems and enhancing system performance.
 
-In addition to backend development, I am deeply involved in the AI/ML space, where I specialize in implementing and fine-tuning LLMs to drive innovative applications. My curiosity fuels my continuous learning, enabling me to stay at the forefront of emerging technologies.
-
-As a technical writer, I enjoy distilling complex concepts into clear, accessible content, making technology more approachable for developers and stakeholders alike. Whether it's writing documentation, creating tutorials, or contributing to open-source projects, I aim to share knowledge and foster a collaborative tech community.
-
+In AI/ML, I specialize in fine-tuning LLMs to drive innovative applications. As a technical writer, I make technology accessible through clear documentation and tutorials, sharing knowledge to build a collaborative tech community.
 
 
 ## Latest Blog Posts
@@ -23,6 +20,8 @@ As a technical writer, I enjoy distilling complex concepts into clear, accessibl
 - React
 - LangChain
 - FASTAPI
+- Bootstrap
+- Tailwind CSS
 
 ## Socials
 - [Twitter](https://twitter.com/PraiseID3?s=09)
