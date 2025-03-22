@@ -1,9 +1,30 @@
-# Hello, I'm Praise
+<img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/>
 
-I am a Backend and AI/ML Engineer with a focus on scalable solutions and Large Multimodal Models (LMMs). Proficient in Python and expanding into frontend with React, I enjoy tackling complex problems and enhancing system performance.
+<img src="./assets/borderseparator.gif" width="100%"/>
 
-In AI/ML, I specialize in fine-tuning LLMs to drive innovative applications. As a technical writer, I make technology accessible through clear documentation and tutorials, sharing knowledge to build a collaborative tech community.
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Praise!+Welcome+to+My+Space!+" alt="Hey, I'm Praise! Welcome to My Space!" width="80%" align="middle" />
+  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+</div>
 
+<img src="./assets/borderseparator.gif" width="100%"/>
+
+<div align="center">
+  <p><b>Profile Views</b></p>
+  <img src="https://profile-counter.glitch.me/praise002/count.svg" width="240px" />
+</div>
+
+<img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
+
+<h2 align="center">Self-taught 🔥 and deeply passionate about software development! </h2><br>
+
+- 👨‍💻 I'm Praise, a Software Engineer and technical writer. <br><br>
+- 🌱 I am currently learning Web, Mobile, and AI technologies. <br><br>
+- 🐾 I'm open to networking, API Documentation opportunities, Brand partnerships and collaborationxs, Speaking Engagements, STEM Advocacy projects and initiatives supporting women in tech. <br><br>
+- 🎯 2025 Goals: Master Web & Mobile Development, contribute to impactful Open Source projects, and grow my influence in tech. <br><br>
+- 💬 Interests: Women Empowerment, STEM, Writing, Traveling, and Content Creation. <br><br>
+- 🎥 Hobbies: Video Editing and, Coding. <br><br>
 
 ## Latest Blog Posts
 - [Creating Python Virtual Environment on Windows 11](https://dev.to/praise002/creating-python-virtual-environment-on-windows-11-1fkm)
@@ -11,17 +32,6 @@ In AI/ML, I specialize in fine-tuning LLMs to drive innovative applications. As 
 - [20 Exciting Python Project Ideas](https://dev.to/praise002/20-exciting-python-project-ideas-3la9)
 - [How to build Asynchronous applications in Python: Exploring Multithreading](https://dev.to/praise002/how-to-build-asynchronous-applications-in-python-exploring-multithreading-3cof)
 - [Navigating challenges on my tech journey](https://medium.com/@ifeoluwapraise02/navigating-challenges-on-my-tech-journey-f0bda45140d5)
-
-## Programming Languages & Framework 
-- Python 
-- Javascript
-- C
-- Django
-- React
-- LangChain
-- FASTAPI
-- Bootstrap
-- Tailwind CSS
 
 ## Socials
 - [Twitter](https://twitter.com/PraiseID3?s=09)
@@ -31,9 +41,34 @@ In AI/ML, I specialize in fine-tuning LLMs to drive innovative applications. As 
 - [dev.to](https://dev.to/praise002)
 - [youtube](https://www.youtube.com/@praiseCode)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<h2 align="center">⚙️ Technologies and Skills</h2>
+<div align="center">
+  <img src="https://github-readme-stats-umber-kappa.vercel.app/api/top-langs/?username=praise002&theme=material-palenight&langs_count=10&card_width=540&layout=compact" alt="Most used languages" /><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,react,py,django,fastapi,tailwind,mysql,sqlite,aws,figma,postman,docker,linux,netlify,vercel,bootstrap,redux,htmx,nextjs,redis" alt="skills logos" />
+</div>
+
+<h3 align="center">📚 Currently Exploring</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=django,react,fastapi" alt="skills actively learning logos" />
+</div>
+
+<h2 align="center">🏆 My GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=praise002&theme=material-palenight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> 
+  <br>
+  <img src="https://streak-stats.demolab.com?user=praise002&theme=material-palenight" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats-umber-kappa.vercel.app/api?username=praise002&theme=material-palenight&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+</div>
+
+<h2 align="center">🌟 Projects</h2>
+<div align="center">
+  <a href="https://github.com/praise002/tech-hive-react" target="_blank">
+    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=praise002&theme=material-palenight&repo=tech-hive-react" width="49%" alt="Tech Hive Frontend" />
+  </a>
+  <a href="https://github.com/praise002/clothing_store_drf" target="_blank">
+    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=praise002&theme=material-palenight&repo=clothing_store_drf" width="49%" alt="Clothing Store API" />
+  </a>
+</div>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ifeoluwapru"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ifeoluwapru" /></a></p><br><br>
-
