@@ -23,8 +23,8 @@
 - 🌱 I am currently learning Web, Mobile, and AI technologies. <br><br>
 - 🐾 I'm open to networking, API Documentation opportunities, Brand partnerships and collaborationxs, Speaking Engagements, STEM Advocacy projects and initiatives supporting women in tech. <br><br>
 - 🎯 2025 Goals: Master Web & Mobile Development, contribute to impactful Open Source projects, and grow my influence in tech. <br><br>
-- 💬 Interests: Women Empowerment, STEM, Writing, Traveling, and Content Creation. <br><br>
-- 🎥 Hobbies: Video Editing and, Coding. <br><br>
+- 💬 Interests: Women Empowerment, STEM, Writing, Traveling, Fashion, and Content Creation. <br><br>
+- 🎥 Hobbies: Video Editing, Reading books, and Coding. <br><br>
 
 ## Latest Blog Posts
 - [Creating Python Virtual Environment on Windows 11](https://dev.to/praise002/creating-python-virtual-environment-on-windows-11-1fkm)
