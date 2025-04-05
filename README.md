@@ -28,6 +28,7 @@
 
 # 📚 Latest Blog Posts
 
+- 🎃 [Hacktoberfest 2024: My Contributor Experience](https://dev.to/praise002/hacktoberfest-2024-my-contributor-experience-4mf1)
 - 🌟 [Creating Python Virtual Environment on Windows 11](https://dev.to/praise002/creating-python-virtual-environment-on-windows-11-1fkm)
 - 🤖 [Comparing CodiumAI PR-Agent to GitHub Copilot’s solution for pull request](https://medium.com/@ifeoluwapraise02/comparing-codiumai-pr-agent-to-github-copilots-solution-for-pull-request-67143e37e4e5)
 - 💡 [20 Exciting Python Project Ideas](https://dev.to/praise002/20-exciting-python-project-ideas-3la9)
