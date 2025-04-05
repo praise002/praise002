@@ -20,26 +20,30 @@
 <h2 align="center">Self-taught 🔥 and deeply passionate about software development! </h2><br>
 
 - 👨‍💻 I'm Praise, a Software Engineer and technical writer. <br><br>
-- 🌱 I am currently learning Web, Mobile, and AI technologies. <br><br>
-- 🐾 I'm open to networking, API Documentation opportunities, Brand partnerships and collaborationxs, Speaking Engagements, STEM Advocacy projects and initiatives supporting women in tech. <br><br>
-- 🎯 2025 Goals: Master Web & Mobile Development, contribute to impactful Open Source projects, and grow my influence in tech. <br><br>
-- 💬 Interests: Women Empowerment, STEM, Writing, Traveling, Fashion, and Content Creation. <br><br>
-- 🎥 Hobbies: Video Editing, Reading books, and Coding. <br><br>
+- 🌱 I am currently learning Web, and AI technologies. <br><br>
+- 🐾 I'm open to networking, API Documentation opportunities, Brand partnerships and collaborations, Speaking Engagements, STEM Advocacy projects and initiatives supporting women in tech. <br><br>
+- 🎯 2025 Goals: Master Web, Mobile & AI technologies, contribute to impactful Open Source projects, and grow my influence in tech. <br><br>
+- 💬 Interests: Women Empowerment, Personal growth, STEM, Tech storytelling, Traveling, Fashion, Public speaking, and Faith. <br><br>
+- 🎥 Hobbies: Video Editing, Content creation, Writing and Coding. <br><br>
 
-## Latest Blog Posts
-- [Creating Python Virtual Environment on Windows 11](https://dev.to/praise002/creating-python-virtual-environment-on-windows-11-1fkm)
-- [Comparing CodiumAI PR-Agent to GitHub Copilot’s solution for pull request](https://medium.com/@ifeoluwapraise02/comparing-codiumai-pr-agent-to-github-copilots-solution-for-pull-request-67143e37e4e5)
-- [20 Exciting Python Project Ideas](https://dev.to/praise002/20-exciting-python-project-ideas-3la9)
-- [How to build Asynchronous applications in Python: Exploring Multithreading](https://dev.to/praise002/how-to-build-asynchronous-applications-in-python-exploring-multithreading-3cof)
-- [Navigating challenges on my tech journey](https://medium.com/@ifeoluwapraise02/navigating-challenges-on-my-tech-journey-f0bda45140d5)
+# 📚 Latest Blog Posts
 
-## Socials
-- [Twitter](https://twitter.com/PraiseID3?s=09)
-- <a href="mailto:ifeoluwapraise02@gmail.com">Gmail
-- [LinkedIn](https://www.linkedin.com/in/praise-ifeoluwa-idowu-back-end-developer-django/)
-- [Medium](https://medium.com/@ifeoluwapraise02)
-- [dev.to](https://dev.to/praise002)
-- [youtube](https://www.youtube.com/@praiseCode)
+- 🌟 [Creating Python Virtual Environment on Windows 11](https://dev.to/praise002/creating-python-virtual-environment-on-windows-11-1fkm)
+- 🤖 [Comparing CodiumAI PR-Agent to GitHub Copilot’s solution for pull request](https://medium.com/@ifeoluwapraise02/comparing-codiumai-pr-agent-to-github-copilots-solution-for-pull-request-67143e37e4e5)
+- 💡 [20 Exciting Python Project Ideas](https://dev.to/praise002/20-exciting-python-project-ideas-3la9)
+- ⚡️ [How to build Asynchronous applications in Python: Exploring Multithreading](https://dev.to/praise002/how-to-build-asynchronous-applications-in-python-exploring-multithreading-3cof)
+- 🚀 [Navigating challenges on my tech journey](https://medium.com/@ifeoluwapraise02/navigating-challenges-on-my-tech-journey-f0bda45140d5)
+
+# 🌐 Socials
+
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/PraiseID3?s=09)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:ifeoluwapraise02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/praise-ifeoluwa-idowu-back-end-developer-django/)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/@praiseCode)
+[![TikTok](https://img.shields.io/badge/-TikTok-black?style=flat&logo=tiktok)](https://vm.tiktok.com/ZMBxeF4sj/L)
+[![Instagram](https://img.shields.io/badge/-Instagram-pink?style=flat&logo=instagram)](https://www.instagram.com/faithfulcoder?igsh=MTdsMGFmejJ0bnNoag==)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium)](https://medium.com/@ifeoluwapraise02)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-black?style=flat&logo=dev.to)](https://dev.to/praise002)
 
 <h2 align="center">⚙️ Technologies and Skills</h2>
 <div align="center">
@@ -60,15 +64,6 @@
   <img src="https://github-readme-stats-umber-kappa.vercel.app/api?username=praise002&theme=material-palenight&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div>
 
-<h2 align="center">🌟 Projects</h2>
-<div align="center">
-  <a href="https://github.com/praise002/tech-hive-react" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=praise002&theme=material-palenight&repo=tech-hive-react" width="49%" alt="Tech Hive Frontend" />
-  </a>
-  <a href="https://github.com/praise002/clothing_store_drf" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=praise002&theme=material-palenight&repo=clothing_store_drf" width="49%" alt="Clothing Store API" />
-  </a>
-</div>
-
-<h3 align="left">Support:</h3>
+<h3 align="left">Support My Work</h3>
+<p>If you like what I do, consider buying me a coffee:</p>
 <p><a href="https://www.buymeacoffee.com/ifeoluwapru"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ifeoluwapru" /></a></p><br><br>
