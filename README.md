@@ -20,7 +20,7 @@
 <h2 align="center">Self-taught 🔥 and deeply passionate about software development! </h2><br>
 
 - 👨‍💻 I'm Praise, a Software Engineer and technical writer. <br><br>
-- 🌱 I am currently learning Web, and AI technologies. <br><br>
+- 🌱 I am currently learning Web, DevOps, and AI technologies. <br><br>
 - 🐾 I'm open to networking, API Documentation opportunities, Backend & AI Engineering roles, Brand partnerships and collaborations, Speaking Engagements, STEM Advocacy projects and initiatives supporting women in tech. <br><br>
 - 🎯 2025 Goals: Master Web, Mobile & AI technologies, contribute to impactful Open Source projects, and grow my influence in tech. <br><br>
 - 💬 Interests: Women Empowerment, Personal growth, STEM, Tech storytelling, Traveling, Fashion, Public speaking, and Faith. <br><br>
